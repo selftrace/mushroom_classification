@@ -13,13 +13,13 @@ Decision Tree model training
 Model evaluation using accuracy, confusion matrix, and classification report
 Feature importance analysis to identify the most influential mushroom characteristics
 
-Technologies Used
+Technologies Used:
 
 Python
 Pandas
 Scikit-learn
 
-Dataset
+Dataset:
 
 Kaggle Mushroom Classification Dataset
 
