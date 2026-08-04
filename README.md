@@ -6,17 +6,17 @@ The categorical values were converted into numerical labels using LabelEncoder b
 
 The project includes:
 
-Data loading and preprocessing
-Label encoding of categorical features
-Train/test split
-Decision Tree model training
-Model evaluation using accuracy, confusion matrix, and classification report
+Data loading and preprocessing,
+Label encoding of categorical features,
+Train/test split,
+Decision Tree model training,
+Model evaluation using accuracy, confusion matrix, and classification report,
 Feature importance analysis to identify the most influential mushroom characteristics
 
 Technologies Used:
 
-Python
-Pandas
+Python,
+Pandas,
 Scikit-learn
 
 Dataset:
