@@ -21,6 +21,6 @@ Scikit-learn
 
 Dataset:
 
-Kaggle Mushroom Classification Dataset
+Kaggle mushroom Classification Dataset
 
 This is a complete supervised machine learning workflow, from data preprocessing to model evaluation, using a simple and interpretable classification algorithm.
